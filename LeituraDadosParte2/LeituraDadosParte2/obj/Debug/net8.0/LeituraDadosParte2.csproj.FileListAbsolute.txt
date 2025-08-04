@@ -1,0 +1,14 @@
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\bin\Debug\net8.0\LeituraDadosParte2.exe
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\bin\Debug\net8.0\LeituraDadosParte2.deps.json
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\bin\Debug\net8.0\LeituraDadosParte2.runtimeconfig.json
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\bin\Debug\net8.0\LeituraDadosParte2.dll
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\bin\Debug\net8.0\LeituraDadosParte2.pdb
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.dll
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\refint\LeituraDadosParte2.dll
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.pdb
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\LeituraDadosParte2.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\LeituraDadosParte2\LeituraDadosParte2\obj\Debug\net8.0\ref\LeituraDadosParte2.dll
