@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\bin\Debug\net8.0\CondicionalMultiplos.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\bin\Debug\net8.0\CondicionalMultiplos.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\bin\Debug\net8.0\CondicionalMultiplos.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\bin\Debug\net8.0\CondicionalMultiplos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\bin\Debug\net8.0\CondicionalMultiplos.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\refint\CondicionalMultiplos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\CondicionalMultiplos.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalMultiplos\CondicionalMultiplos\obj\Debug\net8.0\ref\CondicionalMultiplos.dll

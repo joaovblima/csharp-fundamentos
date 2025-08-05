@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CondicionalLanchonete/1.0.0": {
+        "runtime": {
+          "CondicionalLanchonete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondicionalLanchonete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

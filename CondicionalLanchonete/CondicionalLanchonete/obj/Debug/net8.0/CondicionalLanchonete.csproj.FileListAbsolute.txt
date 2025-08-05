@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\bin\Debug\net8.0\CondicionalLanchonete.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\bin\Debug\net8.0\CondicionalLanchonete.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\bin\Debug\net8.0\CondicionalLanchonete.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\bin\Debug\net8.0\CondicionalLanchonete.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\bin\Debug\net8.0\CondicionalLanchonete.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\refint\CondicionalLanchonete.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\CondicionalLanchonete.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalLanchonete\CondicionalLanchonete\obj\Debug\net8.0\ref\CondicionalLanchonete.dll

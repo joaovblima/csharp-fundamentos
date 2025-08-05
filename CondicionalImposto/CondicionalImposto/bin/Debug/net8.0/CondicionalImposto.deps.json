@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CondicionalImposto/1.0.0": {
+        "runtime": {
+          "CondicionalImposto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondicionalImposto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

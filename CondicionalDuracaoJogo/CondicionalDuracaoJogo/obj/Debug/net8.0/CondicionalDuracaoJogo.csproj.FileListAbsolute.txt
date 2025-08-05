@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\bin\Debug\net8.0\CondicionalDuracaoJogo.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\bin\Debug\net8.0\CondicionalDuracaoJogo.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\bin\Debug\net8.0\CondicionalDuracaoJogo.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\bin\Debug\net8.0\CondicionalDuracaoJogo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\bin\Debug\net8.0\CondicionalDuracaoJogo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\refint\CondicionalDuracaoJogo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\CondicionalDuracaoJogo.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalDuracaoJogo\CondicionalDuracaoJogo\obj\Debug\net8.0\ref\CondicionalDuracaoJogo.dll

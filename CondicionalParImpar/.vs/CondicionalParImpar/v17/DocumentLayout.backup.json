@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\CondicionalParImpar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DE5567-4688-4BE6-812A-E2888CCEC398}|CondicionalParImpar\\CondicionalParImpar.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\condicionalparimpar\\condicionalparimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DE5567-4688-4BE6-812A-E2888CCEC398}|CondicionalParImpar\\CondicionalParImpar.csproj|solutionrelative:condicionalparimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\CondicionalParImpar\\CondicionalParImpar\\Program.cs",
+              "RelativeDocumentMoniker": "CondicionalParImpar\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\CondicionalParImpar\\CondicionalParImpar\\Program.cs",
+              "RelativeToolTip": "CondicionalParImpar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:51:32.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

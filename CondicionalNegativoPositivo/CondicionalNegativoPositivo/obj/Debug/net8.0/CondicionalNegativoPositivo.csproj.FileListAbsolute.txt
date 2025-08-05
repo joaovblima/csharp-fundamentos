@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\bin\Debug\net8.0\CondicionalNegativoPositivo.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\bin\Debug\net8.0\CondicionalNegativoPositivo.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\bin\Debug\net8.0\CondicionalNegativoPositivo.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\bin\Debug\net8.0\CondicionalNegativoPositivo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\bin\Debug\net8.0\CondicionalNegativoPositivo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\refint\CondicionalNegativoPositivo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\CondicionalNegativoPositivo.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalNegativoPositivo\CondicionalNegativoPositivo\obj\Debug\net8.0\ref\CondicionalNegativoPositivo.dll

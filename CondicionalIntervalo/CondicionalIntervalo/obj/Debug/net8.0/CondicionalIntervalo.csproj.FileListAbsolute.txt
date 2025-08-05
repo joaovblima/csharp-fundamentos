@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\bin\Debug\net8.0\CondicionalIntervalo.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\bin\Debug\net8.0\CondicionalIntervalo.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\bin\Debug\net8.0\CondicionalIntervalo.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\bin\Debug\net8.0\CondicionalIntervalo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\bin\Debug\net8.0\CondicionalIntervalo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\refint\CondicionalIntervalo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\CondicionalIntervalo.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalIntervalo\CondicionalIntervalo\obj\Debug\net8.0\ref\CondicionalIntervalo.dll

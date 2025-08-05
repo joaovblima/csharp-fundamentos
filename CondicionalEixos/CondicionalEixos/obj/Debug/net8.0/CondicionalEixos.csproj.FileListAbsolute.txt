@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\bin\Debug\net8.0\CondicionalEixos.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\bin\Debug\net8.0\CondicionalEixos.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\bin\Debug\net8.0\CondicionalEixos.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\bin\Debug\net8.0\CondicionalEixos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\bin\Debug\net8.0\CondicionalEixos.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\refint\CondicionalEixos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\CondicionalEixos.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalEixos\CondicionalEixos\obj\Debug\net8.0\ref\CondicionalEixos.dll

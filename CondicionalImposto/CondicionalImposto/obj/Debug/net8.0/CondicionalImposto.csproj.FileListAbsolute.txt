@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\bin\Debug\net8.0\CondicionalImposto.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\bin\Debug\net8.0\CondicionalImposto.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\bin\Debug\net8.0\CondicionalImposto.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\bin\Debug\net8.0\CondicionalImposto.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\bin\Debug\net8.0\CondicionalImposto.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\refint\CondicionalImposto.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\CondicionalImposto.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalImposto\CondicionalImposto\obj\Debug\net8.0\ref\CondicionalImposto.dll

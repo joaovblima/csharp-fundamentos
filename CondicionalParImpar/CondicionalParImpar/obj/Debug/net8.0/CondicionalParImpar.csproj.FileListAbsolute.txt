@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\bin\Debug\net8.0\CondicionalParImpar.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\bin\Debug\net8.0\CondicionalParImpar.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\bin\Debug\net8.0\CondicionalParImpar.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\bin\Debug\net8.0\CondicionalParImpar.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\bin\Debug\net8.0\CondicionalParImpar.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\refint\CondicionalParImpar.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\CondicionalParImpar.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CondicionalParImpar\CondicionalParImpar\obj\Debug\net8.0\ref\CondicionalParImpar.dll
