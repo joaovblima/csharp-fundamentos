@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\bin\Debug\net8.0\DiferencaEntrePontos.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\bin\Debug\net8.0\DiferencaEntrePontos.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\bin\Debug\net8.0\DiferencaEntrePontos.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\bin\Debug\net8.0\DiferencaEntrePontos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\bin\Debug\net8.0\DiferencaEntrePontos.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\refint\DiferencaEntrePontos.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\DiferencaEntrePontos.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\DiferencaEntrePontos\DiferencaEntrePontos\obj\Debug\net8.0\ref\DiferencaEntrePontos.dll

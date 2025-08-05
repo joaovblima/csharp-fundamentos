@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\bin\Debug\net8.0\CaixaTeste.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\bin\Debug\net8.0\CaixaTeste.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\bin\Debug\net8.0\CaixaTeste.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\bin\Debug\net8.0\CaixaTeste.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\bin\Debug\net8.0\CaixaTeste.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\refint\CaixaTeste.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\CaixaTeste.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CaixaTeste\CaixaTeste\obj\Debug\net8.0\ref\CaixaTeste.dll

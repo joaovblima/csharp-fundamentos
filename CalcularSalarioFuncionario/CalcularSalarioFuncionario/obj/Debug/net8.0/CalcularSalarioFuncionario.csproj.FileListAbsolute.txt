@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\bin\Debug\net8.0\CalcularSalarioFuncionario.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\bin\Debug\net8.0\CalcularSalarioFuncionario.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\bin\Debug\net8.0\CalcularSalarioFuncionario.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\bin\Debug\net8.0\CalcularSalarioFuncionario.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\bin\Debug\net8.0\CalcularSalarioFuncionario.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\refint\CalcularSalarioFuncionario.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\CalcularSalarioFuncionario.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\CalcularSalarioFuncionario\CalcularSalarioFuncionario\obj\Debug\net8.0\ref\CalcularSalarioFuncionario.dll
