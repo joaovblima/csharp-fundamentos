@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhilePostoGasolina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6355f5ec93caa9741f2a2ff775e0703986032f5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9bc563bfe0fc86a52117581c3ea66044eb14589")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhilePostoGasolina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhilePostoGasolina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

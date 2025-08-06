@@ -17,7 +17,7 @@
             
             
             while (opcao != 4) {
-                opcao = int.Parse(Console.ReadLine());
+               
                 if (opcao == 1)
                 {
                     alcool += 1;
@@ -30,10 +30,7 @@
                 {
                     diesel += 1;
                 }
-                else if (opcao == 4)
-                {
-                    break;
-                }
+                opcao = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("Muito obrigado");
             Console.WriteLine($"Alcool: {alcool}");
