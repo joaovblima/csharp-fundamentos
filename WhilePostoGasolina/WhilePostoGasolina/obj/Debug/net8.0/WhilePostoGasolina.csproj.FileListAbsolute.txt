@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\bin\Debug\net8.0\WhilePostoGasolina.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\bin\Debug\net8.0\WhilePostoGasolina.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\bin\Debug\net8.0\WhilePostoGasolina.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\bin\Debug\net8.0\WhilePostoGasolina.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\bin\Debug\net8.0\WhilePostoGasolina.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\refint\WhilePostoGasolina.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\WhilePostoGasolina.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhilePostoGasolina\WhilePostoGasolina\obj\Debug\net8.0\ref\WhilePostoGasolina.dll

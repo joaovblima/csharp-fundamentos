@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\bin\Debug\net8.0\WhileQuadrante.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\bin\Debug\net8.0\WhileQuadrante.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\bin\Debug\net8.0\WhileQuadrante.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\bin\Debug\net8.0\WhileQuadrante.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\bin\Debug\net8.0\WhileQuadrante.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\refint\WhileQuadrante.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\WhileQuadrante.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileQuadrante\WhileQuadrante\obj\Debug\net8.0\ref\WhileQuadrante.dll

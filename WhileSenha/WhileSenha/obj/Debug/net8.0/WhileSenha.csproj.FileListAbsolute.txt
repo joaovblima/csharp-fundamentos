@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\bin\Debug\net8.0\WhileSenha.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\bin\Debug\net8.0\WhileSenha.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\bin\Debug\net8.0\WhileSenha.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\bin\Debug\net8.0\WhileSenha.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\bin\Debug\net8.0\WhileSenha.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\refint\WhileSenha.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\WhileSenha.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\WhileSenha\WhileSenha\obj\Debug\net8.0\ref\WhileSenha.dll
