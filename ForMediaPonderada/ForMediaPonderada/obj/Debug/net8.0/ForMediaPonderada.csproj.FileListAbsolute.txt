@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\bin\Debug\net8.0\ForMediaPonderada.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\bin\Debug\net8.0\ForMediaPonderada.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\bin\Debug\net8.0\ForMediaPonderada.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\bin\Debug\net8.0\ForMediaPonderada.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\bin\Debug\net8.0\ForMediaPonderada.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\refint\ForMediaPonderada.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ForMediaPonderada.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForMediaPonderada\ForMediaPonderada\obj\Debug\net8.0\ref\ForMediaPonderada.dll

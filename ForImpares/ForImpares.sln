@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForImpares", "ForImpares\ForImpares.csproj", "{7870581A-67E0-489E-916E-4EE999DBCE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7870581A-67E0-489E-916E-4EE999DBCE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7870581A-67E0-489E-916E-4EE999DBCE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7870581A-67E0-489E-916E-4EE999DBCE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7870581A-67E0-489E-916E-4EE999DBCE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE623F6-46F0-4AF3-96E2-C6FB6F26C6B5}
+	EndGlobalSection
+EndGlobal

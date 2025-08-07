@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\bin\Debug\net8.0\ForNumTriplo.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\bin\Debug\net8.0\ForNumTriplo.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\bin\Debug\net8.0\ForNumTriplo.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\bin\Debug\net8.0\ForNumTriplo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\bin\Debug\net8.0\ForNumTriplo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\refint\ForNumTriplo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ForNumTriplo.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForNumTriplo\ForNumTriplo\obj\Debug\net8.0\ref\ForNumTriplo.dll

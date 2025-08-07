@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\bin\Debug\net8.0\ForFatorial.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\bin\Debug\net8.0\ForFatorial.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\bin\Debug\net8.0\ForFatorial.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\bin\Debug\net8.0\ForFatorial.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\bin\Debug\net8.0\ForFatorial.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\refint\ForFatorial.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ForFatorial.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForFatorial\ForFatorial\obj\Debug\net8.0\ref\ForFatorial.dll

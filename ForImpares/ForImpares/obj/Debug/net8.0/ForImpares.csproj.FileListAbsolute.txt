@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\bin\Debug\net8.0\ForImpares.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\bin\Debug\net8.0\ForImpares.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\bin\Debug\net8.0\ForImpares.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\bin\Debug\net8.0\ForImpares.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\bin\Debug\net8.0\ForImpares.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\refint\ForImpares.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ForImpares.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForImpares\ForImpares\obj\Debug\net8.0\ref\ForImpares.dll

@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\bin\Debug\net8.0\ForInOut.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\bin\Debug\net8.0\ForInOut.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\bin\Debug\net8.0\ForInOut.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\bin\Debug\net8.0\ForInOut.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\bin\Debug\net8.0\ForInOut.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\refint\ForInOut.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ForInOut.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForInOut\ForInOut\obj\Debug\net8.0\ref\ForInOut.dll

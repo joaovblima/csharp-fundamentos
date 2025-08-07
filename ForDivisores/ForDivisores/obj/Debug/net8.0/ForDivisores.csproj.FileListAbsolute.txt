@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\bin\Debug\net8.0\ForDivisores.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\bin\Debug\net8.0\ForDivisores.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\bin\Debug\net8.0\ForDivisores.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\bin\Debug\net8.0\ForDivisores.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\bin\Debug\net8.0\ForDivisores.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\refint\ForDivisores.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ForDivisores.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ForDivisores\ForDivisores\obj\Debug\net8.0\ref\ForDivisores.dll
