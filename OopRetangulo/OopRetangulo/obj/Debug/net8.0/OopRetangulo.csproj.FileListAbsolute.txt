@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\bin\Debug\net8.0\OopRetangulo.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\bin\Debug\net8.0\OopRetangulo.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\bin\Debug\net8.0\OopRetangulo.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\bin\Debug\net8.0\OopRetangulo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\bin\Debug\net8.0\OopRetangulo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\refint\OopRetangulo.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\OopRetangulo.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopRetangulo\OopRetangulo\obj\Debug\net8.0\ref\OopRetangulo.dll

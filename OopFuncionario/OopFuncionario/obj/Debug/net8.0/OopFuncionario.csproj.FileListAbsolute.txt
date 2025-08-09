@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\bin\Debug\net8.0\OopFuncionario.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\bin\Debug\net8.0\OopFuncionario.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\bin\Debug\net8.0\OopFuncionario.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\bin\Debug\net8.0\OopFuncionario.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\bin\Debug\net8.0\OopFuncionario.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\refint\OopFuncionario.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\OopFuncionario.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopFuncionario\OopFuncionario\obj\Debug\net8.0\ref\OopFuncionario.dll

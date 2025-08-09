@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\bin\Debug\net8.0\OopProduto.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\bin\Debug\net8.0\OopProduto.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\bin\Debug\net8.0\OopProduto.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\bin\Debug\net8.0\OopProduto.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\bin\Debug\net8.0\OopProduto.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\refint\OopProduto.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\OopProduto.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopProduto\OopProduto\obj\Debug\net8.0\ref\OopProduto.dll

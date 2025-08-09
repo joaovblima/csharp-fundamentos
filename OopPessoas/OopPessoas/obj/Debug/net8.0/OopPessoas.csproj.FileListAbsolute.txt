@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\bin\Debug\net8.0\OopPessoas.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\bin\Debug\net8.0\OopPessoas.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\bin\Debug\net8.0\OopPessoas.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\bin\Debug\net8.0\OopPessoas.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\bin\Debug\net8.0\OopPessoas.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\refint\OopPessoas.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\OopPessoas.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopPessoas\OopPessoas\obj\Debug\net8.0\ref\OopPessoas.dll

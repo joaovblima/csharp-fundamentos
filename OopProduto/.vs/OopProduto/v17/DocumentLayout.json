@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\OopProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F7636-ACC2-4A09-98C9-03C809193138}|OopProduto\\OopProduto.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\oopproduto\\oopproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F7636-ACC2-4A09-98C9-03C809193138}|OopProduto\\OopProduto.csproj|solutionrelative:oopproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81F7636-ACC2-4A09-98C9-03C809193138}|OopProduto\\OopProduto.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\oopproduto\\oopproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81F7636-ACC2-4A09-98C9-03C809193138}|OopProduto\\OopProduto.csproj|solutionrelative:oopproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\OopProduto\\OopProduto\\Produto.cs",
+              "RelativeDocumentMoniker": "OopProduto\\Produto.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\OopProduto\\OopProduto\\Produto.cs",
+              "RelativeToolTip": "OopProduto\\Produto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:59:03.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\OopProduto\\OopProduto\\Program.cs",
+              "RelativeDocumentMoniker": "OopProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\OopProduto\\OopProduto\\Program.cs",
+              "RelativeToolTip": "OopProduto\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:58:03.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
