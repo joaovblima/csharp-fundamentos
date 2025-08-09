@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\bin\Debug\net8.0\OopNotas.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\bin\Debug\net8.0\OopNotas.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\bin\Debug\net8.0\OopNotas.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\bin\Debug\net8.0\OopNotas.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\bin\Debug\net8.0\OopNotas.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\refint\OopNotas.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\OopNotas.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\OopNotas\OopNotas\obj\Debug\net8.0\ref\OopNotas.dll
