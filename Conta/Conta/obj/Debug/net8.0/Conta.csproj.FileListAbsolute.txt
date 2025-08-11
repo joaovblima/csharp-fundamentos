@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\bin\Debug\net8.0\Conta.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\bin\Debug\net8.0\Conta.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\bin\Debug\net8.0\Conta.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\bin\Debug\net8.0\Conta.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\bin\Debug\net8.0\Conta.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\refint\Conta.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\Conta.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\Conta\Conta\obj\Debug\net8.0\ref\Conta.dll

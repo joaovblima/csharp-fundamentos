@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Conta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE947A59-5F9E-4883-ACF3-AB5842546D40}|Conta\\Conta.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\conta\\conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE947A59-5F9E-4883-ACF3-AB5842546D40}|Conta\\Conta.csproj|solutionrelative:conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE947A59-5F9E-4883-ACF3-AB5842546D40}|Conta\\Conta.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\conta\\conta\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE947A59-5F9E-4883-ACF3-AB5842546D40}|Conta\\Conta.csproj|solutionrelative:conta\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Conta\\Conta\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Conta\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Conta\\Conta\\ContaBancaria.cs*",
+              "RelativeToolTip": "Conta\\ContaBancaria.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:18:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Conta\\Conta\\Program.cs",
+              "RelativeDocumentMoniker": "Conta\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Conta\\Conta\\Program.cs*",
+              "RelativeToolTip": "Conta\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:07:06.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
