@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Pensionato\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F4B2A3D-7BF0-4094-8D73-79203E7D69B2}|Pensionato\\Pensionato.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\pensionato\\pensionato\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4B2A3D-7BF0-4094-8D73-79203E7D69B2}|Pensionato\\Pensionato.csproj|solutionrelative:pensionato\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F4B2A3D-7BF0-4094-8D73-79203E7D69B2}|Pensionato\\Pensionato.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\pensionato\\pensionato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F4B2A3D-7BF0-4094-8D73-79203E7D69B2}|Pensionato\\Pensionato.csproj|solutionrelative:pensionato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4B2A3D-7BF0-4094-8D73-79203E7D69B2}|Pensionato\\Pensionato.csproj|c:\\users\\jo\u00E3o\\desktop\\workspace\\c#-nelioalves\\pensionato\\pensionato\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4B2A3D-7BF0-4094-8D73-79203E7D69B2}|Pensionato\\Pensionato.csproj|solutionrelative:pensionato\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Pensionato\\Pensionato\\Aluno.cs",
               "RelativeDocumentMoniker": "Pensionato\\Aluno.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Pensionato\\Pensionato\\Aluno.cs",
               "RelativeToolTip": "Pensionato\\Aluno.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T03:52:40.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Pensionato\\Pensionato\\Program.cs",
               "RelativeDocumentMoniker": "Pensionato\\Program.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\workspace\\c#-nelioalves\\Pensionato\\Pensionato\\Program.cs",
               "RelativeToolTip": "Pensionato\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwCAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T03:49:28.235Z",
               "EditorCaption": ""

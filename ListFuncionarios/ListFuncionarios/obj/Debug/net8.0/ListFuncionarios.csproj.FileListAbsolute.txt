@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\bin\Debug\net8.0\ListFuncionarios.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\bin\Debug\net8.0\ListFuncionarios.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\bin\Debug\net8.0\ListFuncionarios.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\bin\Debug\net8.0\ListFuncionarios.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\bin\Debug\net8.0\ListFuncionarios.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\refint\ListFuncionarios.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ListFuncionarios.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\ListFuncionarios\ListFuncionarios\obj\Debug\net8.0\ref\ListFuncionarios.dll

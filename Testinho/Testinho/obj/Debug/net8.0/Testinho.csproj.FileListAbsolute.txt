@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.AssemblyInfo.cs
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.sourcelink.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\bin\Debug\net8.0\Testinho.exe
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\bin\Debug\net8.0\Testinho.deps.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\bin\Debug\net8.0\Testinho.runtimeconfig.json
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\bin\Debug\net8.0\Testinho.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\bin\Debug\net8.0\Testinho.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\refint\Testinho.dll
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.pdb
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\Testinho.genruntimeconfig.cache
+C:\Users\João\Desktop\workspace\c#-nelioalves\Testinho\Testinho\obj\Debug\net8.0\ref\Testinho.dll
